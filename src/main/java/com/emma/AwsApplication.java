@@ -1,4 +1,4 @@
-package com.aws;
+package com.emma;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

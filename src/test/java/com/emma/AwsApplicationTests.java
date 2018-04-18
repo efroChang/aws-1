@@ -1,4 +1,4 @@
-package com.aws;
+package com.emma;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
